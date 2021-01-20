@@ -9,8 +9,23 @@
     <atom:link href="http://zsooflow.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>흐름을 앞서는 벡터형 개발자 되기</description>
-    <pubDate>Mon, 18 Jan 2021 09:07:51 GMT</pubDate>
+    <pubDate>Mon, 18 Jan 2021 10:32:52 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>후기</title>
+      <link>http://zsooflow.github.io/2021/01/18/%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%87%E1%85%A5%20%E1%84%87%E1%85%AE%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8F%E1%85%A2%E1%86%B7%E1%84%91%E1%85%B3%20AI%20tech%20%E1%84%92%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%92%E1%85%AE%E1%84%80%E1%85%B5/</link>
+      <guid>http://zsooflow.github.io/2021/01/18/%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%87%E1%85%A5%20%E1%84%87%E1%85%AE%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8F%E1%85%A2%E1%86%B7%E1%84%91%E1%85%B3%20AI%20tech%20%E1%84%92%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%92%E1%85%AE%E1%84%80%E1%85%B5/</guid>
+      <pubDate>Mon, 18 Jan 2021 10:28:38 GMT</pubDate>
+      
+      
+      
+      
+      
+      
+      <comments>http://zsooflow.github.io/2021/01/18/%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%87%E1%85%A5%20%E1%84%87%E1%85%AE%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8F%E1%85%A2%E1%86%B7%E1%84%91%E1%85%B3%20AI%20tech%20%E1%84%92%E1%85%A1%E1%86%B8%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%92%E1%85%AE%E1%84%80%E1%85%B5/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hello World</title>
